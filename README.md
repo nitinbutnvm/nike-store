@@ -9,7 +9,6 @@ This project replicates an online shopping experience with authentication, produ
 
 ## ✨ Features
 
-- 🔑 User Authentication (Signup, Login via Supabase)
 - 🛍️ Product Listing & Detailed Product Pages
 - 🛒 Add to Cart & Cart Dropdown
 - 💳 Checkout & Order Confirmation Flow
@@ -63,7 +62,19 @@ SUPABASE_ANON_KEY=your_supabase_anon_key
 
 4. Run Locally
 npm run dev
+App will be available at 👉 http://localhost:3000
 
+📌 Roadmap
+
+ Add User Authentication (Signup/Login via Supabase)
+
+ Add Payment Gateway Integration (Stripe/PayPal)
+
+ Add Wishlist Feature
+
+ Admin Dashboard for Product Management
+
+ Dark Mode Toggle
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
